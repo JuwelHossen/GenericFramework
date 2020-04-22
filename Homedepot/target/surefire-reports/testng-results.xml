@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Walmart Test Automation Script" duration-ms="27785" started-at="2020-04-21T18:54:29Z" finished-at="2020-04-21T18:54:56Z">
+    <groups>
+    </groups>
+    <test name="Walmart" duration-ms="27785" started-at="2020-04-21T18:54:29Z" finished-at="2020-04-21T18:54:56Z">
+      <class name="TestingPackage.TestingProducts">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestingPackage.TestingProducts@60addb54]" name="setUp" is-config="true" duration-ms="10320" started-at="2020-04-21T18:54:29Z" finished-at="2020-04-21T18:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="serchProducts()[pri:0, instance:TestingPackage.TestingProducts@60addb54]" name="serchProducts" duration-ms="11115" started-at="2020-04-21T18:54:39Z" finished-at="2020-04-21T18:54:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchProducts -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestingPackage.TestingProducts@60addb54]" name="close" is-config="true" duration-ms="6327" started-at="2020-04-21T18:54:50Z" finished-at="2020-04-21T18:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestingPackage.TestingProducts -->
+    </test> <!-- Walmart -->
+  </suite> <!-- Walmart Test Automation Script -->
+</testng-results>
